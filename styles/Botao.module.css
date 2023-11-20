@@ -5,8 +5,8 @@
     font-size: 1.2rem;
     border: none;
     padding: 10px 25px;
-    background-color: #9885F0;
-    margin-top: 40px;
+    background-color: #401ed4;
+    margin: 40px 80px;
     cursor: pointer;
     transition: all .2s ease-in-out;
 }

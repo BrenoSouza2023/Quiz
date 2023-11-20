@@ -5,3 +5,10 @@
     align-items: center;
     height: 100vh;
 }
+
+.botaobtn {
+    display: flex;        
+    align-items: center;
+        
+}
+
